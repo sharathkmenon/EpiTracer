@@ -99,6 +99,8 @@ The table similar to Table 1 in the paper
 Summary statistics of each influence zone
 
 ***************************************************************************************
+EpiTracer - an algorithm for identifying epicenters in condition-specific biological networks
+PMID: 27556637 DOI: 10.1186/s12864-016-2792-1
 
 Narmada Sambaturu (narmada.sambaturu@gmail.com) (contact for code-related queries)
 Madhulika Mishra (madhulika.m21@gmail.com) (contact for network-related queries)
