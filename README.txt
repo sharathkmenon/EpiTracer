@@ -101,9 +101,12 @@ Summary statistics of each influence zone
 ***************************************************************************************
 EpiTracer - an algorithm for identifying epicenters in condition-specific biological networks
 PMID: 27556637 DOI: 10.1186/s12864-016-2792-1
+If you find this code useful, please cite
+Sambaturu, Narmada, Madhulika Mishra, and Nagasuma Chandra. "EpiTracer-an algorithm for identifying epicenters in condition-specific biological networks." BMC genomics 17.4 (2016): 543.
 
 Narmada Sambaturu (narmada.sambaturu@gmail.com) (contact for code-related queries)
 Madhulika Mishra (madhulika.m21@gmail.com) (contact for network-related queries)
+Nagasuma Chandra (nchandra@iisc.ac.in) (corresponding author)
 30/August/2016
 * The protocol is being updated periodically
 
